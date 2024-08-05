@@ -26,7 +26,7 @@ Automated HTTP Method Scanner And Smuggler is a powerful and advanced tool desig
 - Comprehensive HTTP Method Scanning: Automatically sends requests using multiple HTTP methods (GET, POST, PUT, DELETE, HEAD, OPTIONS, PATCH) and highlights the response status codes using colorama for clear 
   visibility.
 - Connection Testing: Ensures the target host is reachable before initiating the scan, with multiple retry attempts for robust connectivity checks.
-  Request Smuggling: Attempts to bypass 403 Forbidden responses by smuggling requests using various headers. If initial attempts fail, it prompts the user to extend the injection level for more advanced smuggling 
+- Request Smuggling: Attempts to bypass 403 Forbidden responses by smuggling requests using various headers. If initial attempts fail, it prompts the user to extend the injection level for more advanced smuggling 
   techniques.
 - HTTP Pollution Detection: Checks for potential HTTP pollution vulnerabilities and prompts the user for further scanning if detected.
 
